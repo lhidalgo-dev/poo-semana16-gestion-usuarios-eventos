@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "001",
+        "nombre": "Fritada",
+        "precio": 5.0,
+        "categoria": "PLATO_FUERTE",
+        "stock": 2
+    },
+    {
+        "codigo": "002",
+        "nombre": "Arroz con pollo",
+        "precio": 5.0,
+        "categoria": "ENTRADA",
+        "stock": 4
+    },
+    {
+        "codigo": "003",
+        "nombre": "Jugo de mora",
+        "precio": 1.5,
+        "categoria": "BEBIDA",
+        "stock": 10
+    },
+    {
+        "codigo": "004",
+        "nombre": "Flan de caramelo",
+        "precio": 2.0,
+        "categoria": "POSTRE",
+        "stock": 6
+    },
+    {
+        "codigo": "005",
+        "nombre": "Seco de gallina",
+        "precio": 5.0,
+        "categoria": "PLATO_FUERTE",
+        "stock": 7
+    }
+]

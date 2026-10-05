@@ -1,0 +1,30 @@
+[
+    {
+        "identificacion": "0712345678",
+        "nombre": "Leython Hidalgo",
+        "usuario": "leython",
+        "contrasena": "rest2026",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "0700000000",
+        "nombre": "Administrador",
+        "usuario": "admin",
+        "contrasena": "admin123",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "0923456781",
+        "nombre": "Maria Torres",
+        "usuario": "mtorres",
+        "contrasena": "mesera2026",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "0934567812",
+        "nombre": "Carlos Mendoza",
+        "usuario": "cmendoza",
+        "contrasena": "cliente2026",
+        "rol": "Cliente"
+    }
+]
